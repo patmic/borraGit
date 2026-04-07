@@ -1,11 +1,21 @@
 <mxfile host="65bd71144e">
     <diagram id="0h-O-A0H2LNLZ6hMZYUo" name="Page-1">
-        <mxGraphModel dx="798" dy="330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="939" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="14">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="354.2422775995162" y="144.15036010742188" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="627.390412830171" y="187.80114891415553" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="2" value="github&lt;div&gt;pat_mic&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="495" y="10" width="120" height="80" as="geometry"/>
@@ -36,11 +46,11 @@
                         <mxPoint x="622" y="114" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" value="git pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="369" y="40" width="53" height="26" as="geometry"/>
+                <mxCell id="12" value="git push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="366" y="40" width="60" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="git pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="653.5" y="123" width="53" height="26" as="geometry"/>
+                <mxCell id="13" value="git push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="650.5" y="123" width="60" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="SSH (pk &lt;b&gt;pub &lt;/b&gt;/ priv)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="665" y="20" width="120" height="60" as="geometry"/>
@@ -59,6 +69,12 @@
                 </mxCell>
                 <mxCell id="20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
                     <mxGeometry x="708" y="210" width="27.03" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="git pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="398" y="123" width="53" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="git pull" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="543" y="137" width="53" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
