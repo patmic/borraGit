@@ -3,6 +3,7 @@
 
 ## estruc. de prj
 
+
 Proyecto/
 │
 ├── .gitignore          # Configuración para ignorar archivos en Git
@@ -13,6 +14,7 @@ Proyecto/
 ├── readme.md           # Información general del proyecto
 │
 └── assets/             # Carpeta destinada a recursos (imágenes, íconos, etc.)
+
 
 *image* en **negrita**
 
