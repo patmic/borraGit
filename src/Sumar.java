@@ -1,3 +1,4 @@
+package src;
 public class Sumar {
     public static void main(String[] args) {
         int a = 5;
